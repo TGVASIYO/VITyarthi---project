@@ -39,3 +39,28 @@ All data is stored using Python lists, demonstrating how arrays can be used for 
 2. Download or clone the project repository:
    ```bash
    git clone https://github.com/TGVASIYO/VITyarthi---project
+
+
+### 📸 Screenshots
+
+#### 1️⃣ Add Expense
+![Add Expense](https://github.com/TGVASIYO/VITyarthi---project/blob/main/SCREENSHOT/add_expense.png?raw=true)
+
+#### 2️⃣ View All Expenses
+![View Expenses](https://github.com/TGVASIYO/VITyarthi---project/blob/main/SCREENSHOT/view_expenses.png?raw=true)
+
+#### 3️⃣ Total Expense
+![Total Expense](https://github.com/TGVASIYO/VITyarthi---project/blob/main/SCREENSHOT/total_expense.png?raw=true)
+
+#### 4️⃣ Category Total
+![Category Total](https://github.com/TGVASIYO/VITyarthi---project/blob/main/SCREENSHOT/category_total.png?raw=true)
+
+#### 5️⃣ Delete Expense
+![Delete Expense](https://github.com/TGVASIYO/VITyarthi---project/blob/main/SCREENSHOT/delete_expense.png?raw=true)
+
+#### 6️⃣ View by Index
+![View by Index](https://github.com/TGVASIYO/VITyarthi---project/blob/main/SCREENSHOT/view_by_index.png?raw=true)
+
+#### 7️⃣ Exit Program
+![Exit Program](https://github.com/TGVASIYO/VITyarthi---project/blob/main/SCREENSHOT/exit_program.png?raw=true)
+
