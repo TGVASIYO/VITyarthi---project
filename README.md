@@ -1,4 +1,4 @@
-# Expense & Budget Manager  
+# Expense & Budget Manager using python 
 A simple Python-based project to record, manage, and analyze daily expenses using lists.
 
 ---
