@@ -10,7 +10,7 @@ A simple Python-based project to record, manage, and analyze daily expenses usin
 
 ## 📌 Overview of the Project
 This project is a menu-driven Expense Management System created using Python.  
-It allows users to add, view, delete, and analyze expenses efficiently.  
+It allows users to add, view, delete, and analyze expenses efficiently using list data type.  
 All data is stored using Python lists, demonstrating how arrays can be used for real-life applications such as budgeting and financial tracking.
 
 ---
